@@ -195,3 +195,5 @@ I:\Dropbox\Spelutveckling\Fysik\A2, B2, C2 v1.2\Ballthrow\Ballthrow\obj\x86\Debu
 I:\Dropbox\Spelutveckling\Fysik\A2, B2, C2 v1.2\Ballthrow\Ballthrow\obj\x86\Debug\Ballthrow.csproj.GenerateResource.Cache
 I:\Dropbox\Spelutveckling\Fysik\A2, B2, C2 v1.2\Ballthrow\Ballthrow\obj\x86\Debug\Ballthrow.exe
 I:\Dropbox\Spelutveckling\Fysik\A2, B2, C2 v1.2\Ballthrow\Ballthrow\obj\x86\Debug\Ballthrow.pdb
+C:\Users\sebbeklaren\Source\Repos\FysikProjekt\Ballthrow\obj\x86\Debug\Ballthrow.exe
+C:\Users\sebbeklaren\Source\Repos\FysikProjekt\Ballthrow\obj\x86\Debug\Ballthrow.pdb

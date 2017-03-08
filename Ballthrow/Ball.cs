@@ -13,7 +13,7 @@ namespace Ballthrow
         public Vector2 start_position;
         public Vector2 current_position;
         public Vector2 start_velocity;
-        public Vector2 current_velocity;
+        public Vector2 current_velocityTestChange;
         public Rectangle hitBox;
         Vector2 acceleration;
         public float delta_time;
