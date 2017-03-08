@@ -24,6 +24,7 @@ namespace Ballthrow
         Vector2 origin;
         private GameWindow window;
         float wallElast = 0.9f, floorElast = 0.9f;
+        float test;
 
         public Ball(Texture2D texture, float x, float y, Vector2 velocity, GameWindow gameWindow)
         {
