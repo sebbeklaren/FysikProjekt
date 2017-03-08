@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Profile>Reach</Profile>
-  <Platform>Windows</Platform>
-  <Config />
-  <SourceFiles>
-    <File>I:/Dropbox/Spelutveckling/Fysik/A2, B2, C2 v1.2/Ballthrow/Ballthrow/Content/ball.png</File>
-  </SourceFiles>
-</SourceFileCollection>
